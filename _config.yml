@@ -22,7 +22,7 @@ github_username:  yumimobi
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 gems:
   - jekyll-feed
 exclude:
